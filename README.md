@@ -6,3 +6,7 @@ Example: `ghg https://github.com/asya4u/asya-daemon/blob/main/src/main.rs`
 Build: `cargo build --release`
 App `ghg` will be stores in `ghg/target/release/`.
 
+todo:
+  - download folders
+  - relative file path. ex: `asya4u/asya-daemon/blob/main/src/main.rs`
+
